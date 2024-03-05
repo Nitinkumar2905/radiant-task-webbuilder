@@ -1,6 +1,6 @@
 # Radiant-Task
 
-Radiant-Task is a web builder internship assignment completed using React and Tailwind CSS.
+It's a web builder internship assignment completed using React and Tailwind CSS.
 
 ## Features
 
@@ -13,7 +13,7 @@ Radiant-Task is a web builder internship assignment completed using React and Ta
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/radiant-task.git
+git clone https://github.com/your-username/radiant-task-webbuilder.git
 ```
 
 2. Navigate into the project directory:
