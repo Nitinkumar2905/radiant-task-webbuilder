@@ -13,7 +13,7 @@ It's a web builder internship assignment completed using React and Tailwind CSS.
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/radiant-task-webbuilder.git
+git clone https://github.com/Nitinkumar2905/radiant-task-webbuilder.git
 ```
 
 2. Navigate into the project directory:
